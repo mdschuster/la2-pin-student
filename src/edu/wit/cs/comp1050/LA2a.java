@@ -26,7 +26,7 @@ public class LA2a {
 	/**
 	 * Converts an uppercase letter
 	 * to the corresponding number on
-	 * a standard phone...
+	 * a standard phone
 	 * 
 	 * 1:
 	 * 2: ABC
@@ -48,7 +48,7 @@ public class LA2a {
 	 * @return corresponding phone number
 	 */
 	public static int letterToPhone(char c) {
-		return 0; // replace with your code
+		return 0; 
 	}
 	
 	/**
@@ -72,7 +72,7 @@ public class LA2a {
 	
 	/**
 	 * Returns true if the length of the
-	 * input string is equal to the input
+	 * input string is equal to the k
 	 * parameter
 	 * 
 	 * @param s input string
