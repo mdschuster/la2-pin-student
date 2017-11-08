@@ -65,6 +65,7 @@ public class LA2a {
 		int[] response = new int[pin.length()];
 		
 		// write your code here
+		// hint: you'll need letterToPhone()
 		
 		return response;
 	}
@@ -158,6 +159,11 @@ public class LA2a {
 		final String pin = in.nextLine();
 		
 		// write your code here
+		
+		// hint: call stringIsKDigits(), allDigits(), allUppercaseLetters() to do error checking
+		//       and be sure to use the SEQ_DIGITS final variable when appropriate
+		// hint: then use digitStringToIntArray() to convert the sequence into an int[]
+		// hint: then call getResponse() to convert the PIN into the response using the sequence
 	}
 
 }
