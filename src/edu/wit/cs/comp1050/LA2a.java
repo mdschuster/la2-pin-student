@@ -164,7 +164,7 @@ public class LA2a {
 		// write your code here
 		
 		// hint: call stringIsKDigits(), allDigits(), allUppercaseLetters() to do error checking
-		//       and be sure to use the SEQ_DIGITS final variable when appropriate
+		//       and be sure to use the ERR_SEQ, ERR_PIN, and SEQ_DIGITS final variables when appropriate
 		// hint: then use digitStringToIntArray() to convert the sequence into an int[]
 		// hint: then call getResponse() to convert the PIN into the response using the sequence
 	}
