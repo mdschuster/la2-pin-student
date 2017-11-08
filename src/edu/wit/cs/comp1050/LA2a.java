@@ -117,6 +117,7 @@ public class LA2a {
 	 * @return corresponding integer array
 	 */
 	public static int[] digitStringToIntArray(String s) {
+		// hint: the Character class has a good method to convert a char into an int
 		return null; // replace with your code
 	}
 	
