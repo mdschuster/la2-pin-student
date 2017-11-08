@@ -91,6 +91,7 @@ public class LA2a {
 	 * @return true if all characters in s are digits
 	 */
 	public static boolean allDigits(String s) {
+		// hint: the Character class has a good method to test if one char is a digit
 		return false; // replace with your code
 	}
 	
@@ -102,6 +103,7 @@ public class LA2a {
 	 * @return true if all characters are uppercase letters
 	 */
 	public static boolean allUppercaseLetters(String s) {
+		// hint: the Character class has a good method to test if one char is an uppercase letter
 		return false; // replace with your code
 	}
 	
